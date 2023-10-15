@@ -1,90 +1,90 @@
 {
   "button.cancel": {
-    "message": "Cancel"
+    "message": "Cancelar"
   },
   "button.edit": {
-    "message": "Edit"
+    "message": "Editar"
   },
   "button.save": {
-    "message": "Save"
+    "message": "Guardar"
   },
   "frog": {
-    "message": "You've been frogged! 🐸"
+    "message": "¡Has sido ranado! 🐸"
   },
   "frog.altText": {
-    "message": "A photorealistic painting of a frog labyrinth"
+    "message": "Una pintura fotorealista de un laberinto de ranas"
   },
   "frog.froggedPeople": {
-    "message": "{count, plural, one {{count} more person} other {{count} more people}} were also frogged!"
+    "message": "{count, plural, one {¡{count} persona más} other {¡{count} personas más}} también han sido ranadas!"
   },
   "frog.sinceOpened": {
-    "message": "This page was opened {ago}"
+    "message": "Esta página fue abierta {ago}"
   },
   "frog.title": {
-    "message": "Frog"
+    "message": "Rana"
   },
   "input.view.gallery": {
-    "message": "Gallery view"
+    "message": "Vista en galería"
   },
   "input.view.grid": {
-    "message": "Grid view"
+    "message": "Vista en cuadrícula"
   },
   "input.view.list": {
-    "message": "List view"
+    "message": "Vista en lista"
   },
   "notification.error.title": {
-    "message": "An error occurred"
+    "message": "Ha ocurrido un error"
   },
   "profile.button.manage-projects": {
-    "message": "Manage projects"
+    "message": "Gestionar proyectos"
   },
   "profile.button.report": {
-    "message": "Report"
+    "message": "Reportar"
   },
   "profile.error.not-found": {
-    "message": "User not found"
+    "message": "Usuario no encontrado"
   },
   "profile.input.upload-avatar": {
-    "message": "Upload avatar"
+    "message": "Subir avatar"
   },
   "profile.joined-at": {
-    "message": "Joined {ago}"
+    "message": "Se unió {ago}"
   },
   "profile.label.edit-bio": {
-    "message": "Bio"
+    "message": "Biografía"
   },
   "profile.label.edit-username": {
-    "message": "Username"
+    "message": "Nombre de usuario"
   },
   "profile.label.no-projects": {
-    "message": "This user has no projects!"
+    "message": "¡Este usuario no tiene proyectos!"
   },
   "profile.label.no-projects-auth": {
-    "message": "You don't have any projects.\nWould you like to <create-link>create one</create-link>?"
+    "message": "No tienes ningún proyecto.\n¿Te gustaría <create-link>crear uno</create-link>?"
   },
   "profile.meta.description": {
-    "message": "Download {username}'s projects on Modrinth"
+    "message": "Descarga proyectos de {username} en Modrinth"
   },
   "profile.meta.description-with-bio": {
-    "message": "{bio} - Download {username}'s projects on Modrinth"
+    "message": "{bio} - Descarga proyectos de {username} en Modrinth"
   },
   "profile.stats.downloads": {
-    "message": "{count, plural, one {<stat>{count}</stat> download} other {<stat>{count}</stat> downloads}}"
+    "message": "{count, plural, one {<stat>{count}</stat> download} other {<stat>{count}</stat> descargas}}"
   },
   "profile.stats.projects-followers": {
-    "message": "{count, plural, one {<stat>{count}</stat> follower} other {<stat>{count}</stat> followers}} of projects"
+    "message": "{count, plural, one {<stat>{count}</stat> follower} other {<stat>{count}</stat> seguidores}} de proyectos"
   },
   "profile.user-id": {
-    "message": "User ID: {id}"
+    "message": "ID de usuario: {id}"
   },
   "project-type.all": {
-    "message": "All"
+    "message": "Todo"
   },
   "project-type.datapack.plural": {
-    "message": "Data Packs"
+    "message": "Paquetes de datos"
   },
   "project-type.datapack.singular": {
-    "message": "Data Pack"
+    "message": "Paquete de datos"
   },
   "project-type.mod.plural": {
     "message": "Mods"
@@ -93,10 +93,10 @@
     "message": "Mod"
   },
   "project-type.modpack.plural": {
-    "message": "Modpacks"
+    "message": "Paquetes de mods"
   },
   "project-type.modpack.singular": {
-    "message": "Modpack"
+    "message": "Paquete de mods"
   },
   "project-type.plugin.plural": {
     "message": "Plugins"
@@ -105,10 +105,10 @@
     "message": "Plugin"
   },
   "project-type.resourcepack.plural": {
-    "message": "Resource Packs"
+    "message": "Paquetes de recursos"
   },
   "project-type.resourcepack.singular": {
-    "message": "Resource Pack"
+    "message": "Paquete de recursos"
   },
   "project-type.shader.plural": {
     "message": "Shaders"
@@ -117,75 +117,75 @@
     "message": "Shader"
   },
   "settings.language.categories.auto": {
-    "message": "Automatic"
+    "message": "Automático"
   },
   "settings.language.categories.default": {
-    "message": "Standard languages"
+    "message": "Idiomas estándar"
   },
   "settings.language.categories.experimental": {
-    "message": "Experimental languages"
+    "message": "Idiomas experimentales"
   },
   "settings.language.categories.fun": {
-    "message": "Fun languages"
+    "message": "Idiomas divertidos"
   },
   "settings.language.categories.search-result": {
-    "message": "Search results"
+    "message": "Resultados de búsqueda"
   },
   "settings.language.description": {
-    "message": "Choose your preferred language for the site. Translations are contributed by volunteers <crowdin-link>on Crowdin</crowdin-link>."
+    "message": "Elige el idioma que prefieras para el sitio. Las traducciones las aportan los voluntarios <crowdin-link>en Crowdin</crowdin-link>."
   },
   "settings.language.languages.automatic": {
-    "message": "Sync with the system language"
+    "message": "Sincronizar con el idioma del sistema"
   },
   "settings.language.languages.language-label-applying": {
-    "message": "{label}. Applying..."
+    "message": "{label}. Aplicando..."
   },
   "settings.language.languages.language-label-error": {
     "message": "{label}. Error"
   },
   "settings.language.languages.load-failed": {
-    "message": "Cannot load this language. Try again in a bit."
+    "message": "No se puede cargar este idioma. Inténtalo de nuevo en un momento."
   },
   "settings.language.languages.search-field.description": {
-    "message": "Submit to focus the first search result"
+    "message": "Enviar para enfocar el primer resultado de búsqueda"
   },
   "settings.language.languages.search-field.placeholder": {
-    "message": "Search for a language..."
+    "message": "Buscar un idioma..."
   },
   "settings.language.languages.search-results-announcement": {
-    "message": "{matches, plural, =0 {No languages match} one {# language matches} other {# languages match}} your search."
+    "message": "{matches, plural, =0 {Ningún idioma coincide con} one {# idioma coincide} other {# idiomas coinciden}} tu busqueda."
   },
   "settings.language.languages.search.no-results": {
-    "message": "No languages match your search."
+    "message": "Ningún idioma coincide con tu busqueda."
   },
   "settings.language.title": {
-    "message": "Language"
+    "message": "Idioma"
   },
   "settings.sessions.button.revoke-session": {
-    "message": "Revoke session"
+    "message": "Revocar sesión"
   },
   "settings.sessions.description": {
-    "message": "Here are all the devices that are currently logged in with your Modrinth account. You can log out of each one individually.\n\nIf you see an entry you don't recognize, log out of that device and change your Modrinth account password immediately."
+    "message": "Aquí están todos los dispositivos que están conectados a tu cuenta de Modrinth en este momento. Puedes cerrar sesión en cada uno individualmente.\n\nSi ves una entrada que no reconoces, cierra sesión en ese dispositivo y cambia la contraseña de tu cuenta de Modrinth inmediatamente."
   },
   "settings.sessions.label.created-at": {
-    "message": "Created {ago}"
+    "message": "Creado hace {ago}"
   },
   "settings.sessions.label.current-session": {
-    "message": "Current session"
+    "message": "Sesión actual"
   },
   "settings.sessions.label.last-accessed-at": {
-    "message": "Last accessed {ago}"
+    "message": "Accedido por última vez hace {ago}"
   },
   "settings.sessions.label.unknown-os": {
-    "message": "Unknown OS"
+    "message": "Sistema operativo desconocido"
   },
   "settings.sessions.label.unknown-platform": {
-    "message": "Unknown platform"
+    "message": "Plataforma desconocida"
   },
   "settings.sessions.title": {
-    "message": "Sessions"
+    "message": "Sesiones"
   },
   "tooltip.date-at-time": {
-    "message": "{date, date, long} at {time, time, short}"
+    "message": "{date, date, long} a las {time, time, short}"
   }
 }
